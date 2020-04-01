@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 class Temperature
 {
+    
     public static int Main(string[] args)
     {
         int[] T = new int[] {73, 74, 75, 71, 69, 72, 76, 73};   // Sample input to test the logic
